@@ -1,0 +1,247 @@
+C:\Users\Dell\Documents\Library\Cell Biology ( PDFDrive.com ).pdf
+C:\Users\Dell\Documents\Library\chemistry (chemlibre).pdf
+C:\Users\Dell\Documents\Library\Life_ The Science of Biology, 9th Edition   ( PDFDrive.com ).pdf
+C:\Users\Dell\Documents\Library\Invertebrates ( PDFDrive.com ) - Copy.pdf
+C:\Users\Dell\Documents\Library\Animal Behaviour ( PDFDrive ).pdf
+C:\Users\Dell\Documents\Library\Physical Chemistry ( PDFDrive.com ).pdf
+C:\Users\Dell\Documents\Library\Modern Text Book of Zoology_ Vertebrates ( PDFDrive ).pdf
+C:\Users\Dell\Documents\Library\Fundamental Neuroscience (3rd edition) 2008.pdf
+C:\Users\Dell\Documents\Library\Calculus.pdf
+C:\Users\Dell\Documents\Library\R&J.pdf
+C:\Users\Dell\Documents\Library\Introduction to Genetics_ A Molecular Approach ( PDFDrive ).pdf
+C:\Users\Dell\Documents\Library\Biology-S_Chand.pdf
+C:\Users\Dell\Documents\Library\Insight - Special EditionÿonÿSex.pdf
+C:\Users\Dell\Documents\Library\Modern_Prometheus_-_Jim_Kozubek.pdf
+C:\Users\Dell\Documents\Library\Learn-and-Master-Guitar-Lesson-Book-1.pdf
+C:\Users\Dell\Documents\Library\Encyclopedia of Biology ( PDFDrive ).pdf
+C:\Users\Dell\Documents\Library\Extended Heredity_ A New Understanding of Inheritance and Evolution ( PDFDrive.com ).pdf
+C:\Users\Dell\Documents\Library\Niels_Bohr.pdf
+C:\Users\Dell\Documents\Library\life_in_india.pdf
+C:\Users\Dell\Documents\Library\Life of Pi ( PDFDrive ).pdf
+C:\Users\Dell\Documents\Library\.gitattributes
+C:\Users\Dell\Documents\Library\README.md
+C:\Users\Dell\Documents\Library\out.txt
+C:\Users\Dell\Documents\Library\Great People
+C:\Users\Dell\Documents\Library\poets_and_writers
+C:\Users\Dell\Documents\Library\Pride Indian
+C:\Users\Dell\Documents\Library\Icons
+C:\Users\Dell\Documents\Library\First Loves
+C:\Users\Dell\Documents\Library\Scientific minds
+C:\Users\Dell\Documents\Library\SomethingNew@20224
+C:\Users\Dell\Documents\Library\Stephen Hawking
+C:\Users\Dell\Documents\Library\Stephen King
+C:\Users\Dell\Documents\Library\unknown but good
+C:\Users\Dell\Documents\Library\.git\config
+C:\Users\Dell\Documents\Library\.git\index
+C:\Users\Dell\Documents\Library\.git\description
+C:\Users\Dell\Documents\Library\.git\HEAD
+C:\Users\Dell\Documents\Library\.git\COMMIT_EDITMSG
+C:\Users\Dell\Documents\Library\.git\hooks
+C:\Users\Dell\Documents\Library\.git\info
+C:\Users\Dell\Documents\Library\.git\logs
+C:\Users\Dell\Documents\Library\.git\objects
+C:\Users\Dell\Documents\Library\.git\refs
+C:\Users\Dell\Documents\Library\.git\hooks\pre-rebase.sample
+C:\Users\Dell\Documents\Library\.git\hooks\fsmonitor-watchman.sample
+C:\Users\Dell\Documents\Library\.git\hooks\update.sample
+C:\Users\Dell\Documents\Library\.git\hooks\push-to-checkout.sample
+C:\Users\Dell\Documents\Library\.git\hooks\sendemail-validate.sample
+C:\Users\Dell\Documents\Library\.git\hooks\pre-commit.sample
+C:\Users\Dell\Documents\Library\.git\hooks\prepare-commit-msg.sample
+C:\Users\Dell\Documents\Library\.git\hooks\pre-push.sample
+C:\Users\Dell\Documents\Library\.git\hooks\commit-msg.sample
+C:\Users\Dell\Documents\Library\.git\hooks\pre-receive.sample
+C:\Users\Dell\Documents\Library\.git\hooks\applypatch-msg.sample
+C:\Users\Dell\Documents\Library\.git\hooks\pre-applypatch.sample
+C:\Users\Dell\Documents\Library\.git\hooks\pre-merge-commit.sample
+C:\Users\Dell\Documents\Library\.git\hooks\post-update.sample
+C:\Users\Dell\Documents\Library\.git\info\exclude
+C:\Users\Dell\Documents\Library\.git\logs\HEAD
+C:\Users\Dell\Documents\Library\.git\logs\refs
+C:\Users\Dell\Documents\Library\.git\logs\refs\heads
+C:\Users\Dell\Documents\Library\.git\logs\refs\remotes
+C:\Users\Dell\Documents\Library\.git\logs\refs\heads\main
+C:\Users\Dell\Documents\Library\.git\logs\refs\remotes\origin
+C:\Users\Dell\Documents\Library\.git\logs\refs\remotes\origin\main
+C:\Users\Dell\Documents\Library\.git\objects\1c
+C:\Users\Dell\Documents\Library\.git\objects\99
+C:\Users\Dell\Documents\Library\.git\objects\b4
+C:\Users\Dell\Documents\Library\.git\objects\info
+C:\Users\Dell\Documents\Library\.git\objects\pack
+C:\Users\Dell\Documents\Library\.git\objects\1c\4960def8252eaaed48bda29134b49de4353503
+C:\Users\Dell\Documents\Library\.git\objects\99\3c3e3af8a19ca69dd2abc0e14e8ccec0c435ba
+C:\Users\Dell\Documents\Library\.git\objects\b4\f1e72ffa5e8a217b67e104af5c04fb0b7db03c
+C:\Users\Dell\Documents\Library\.git\refs\heads
+C:\Users\Dell\Documents\Library\.git\refs\remotes
+C:\Users\Dell\Documents\Library\.git\refs\tags
+C:\Users\Dell\Documents\Library\.git\refs\heads\main
+C:\Users\Dell\Documents\Library\.git\refs\remotes\origin
+C:\Users\Dell\Documents\Library\.git\refs\remotes\origin\main
+C:\Users\Dell\Documents\Library\First Loves\Bram Stoker
+C:\Users\Dell\Documents\Library\First Loves\F‚lix J. Palma
+C:\Users\Dell\Documents\Library\First Loves\Wells
+C:\Users\Dell\Documents\Library\First Loves\Bram Stoker\Dracula.pdf
+C:\Users\Dell\Documents\Library\First Loves\Bram Stoker\Dracula's Guest and Other Weird ( PDFDrive ).pdf
+C:\Users\Dell\Documents\Library\First Loves\Bram Stoker\HTML
+C:\Users\Dell\Documents\Library\First Loves\Bram Stoker\HTML\The Project Gutenberg eBook of Dracula, by Bram Stoker.html
+C:\Users\Dell\Documents\Library\First Loves\Bram Stoker\HTML\The Project Gutenberg eBook of Dracula, by Bram Stoker_files
+C:\Users\Dell\Documents\Library\First Loves\Bram Stoker\HTML\The Project Gutenberg eBook of Dracula, by Bram Stoker_files\cover.jpg
+C:\Users\Dell\Documents\Library\First Loves\Bram Stoker\HTML\The Project Gutenberg eBook of Dracula, by Bram Stoker_files\colophon.png
+C:\Users\Dell\Documents\Library\First Loves\F‚lix J. Palma\The_Map_of_Chaos.pdf
+C:\Users\Dell\Documents\Library\First Loves\F‚lix J. Palma\The_Map_of_the_Sky.pdf
+C:\Users\Dell\Documents\Library\First Loves\F‚lix J. Palma\The_Map_of_Time.pdf
+C:\Users\Dell\Documents\Library\First Loves\F‚lix J. Palma\epubs
+C:\Users\Dell\Documents\Library\First Loves\F‚lix J. Palma\epubs\The Map of Chaos by Palma F‚lix J (z-lib.org).epub
+C:\Users\Dell\Documents\Library\First Loves\F‚lix J. Palma\epubs\[Palma_Felix_J]_The_Map_of_the_Sky(BookFi).epub
+C:\Users\Dell\Documents\Library\First Loves\F‚lix J. Palma\epubs\[F‚lix_J._Palma]_The_Map_of_Time(BookFi).epub
+C:\Users\Dell\Documents\Library\First Loves\F‚lix J. Palma\epubs\pg345-images.epub
+C:\Users\Dell\Documents\Library\First Loves\Wells\Complete_Works_of_H_G_Wells_-_H_G_Wells.pdf
+C:\Users\Dell\Documents\Library\First Loves\Wells\Time_Machine_and_The_Invisible_Man_-_HG_Wells.pdf
+C:\Users\Dell\Documents\Library\First Loves\Wells\the war of the worlds.epub
+C:\Users\Dell\Documents\Library\First Loves\Wells\the invisible man.epub
+C:\Users\Dell\Documents\Library\First Loves\Wells\te time machine.epub
+C:\Users\Dell\Documents\Library\Great People\Conversations With Myself.pdf
+C:\Users\Dell\Documents\Library\Great People\My_Inventions__The_Autobiography_of_Nikola_-_Nikola_Tesla.pdf
+C:\Users\Dell\Documents\Library\Great People\Long Walk to Freedom.pdf
+C:\Users\Dell\Documents\Library\Icons\library.ico
+C:\Users\Dell\Documents\Library\Icons\best_book_icon.ico
+C:\Users\Dell\Documents\Library\Icons\ribbon-2-512.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\illustrated raven.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Complete_Works_of_Rudyard_Kipling_-_Rudyard_Kipling.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\The Devil in the Connecticut.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Complete Works of Edgar Allan Poe (Illustrated) ( PDFDrive ).pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\The Complete Works of William Shakespeare.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Shakespeare-_a_Complete_Introduction_-_Michael_Scott.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\the raven.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Henry James
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson
+C:\Users\Dell\Documents\Library\poets_and_writers\Oscar Wilde
+C:\Users\Dell\Documents\Library\poets_and_writers\Raven (from different sources)
+C:\Users\Dell\Documents\Library\poets_and_writers\Henry James\Delphi_Complete_Works_of_Henry_James_-_Henry_James.epub
+C:\Users\Dell\Documents\Library\poets_and_writers\Henry James\The_Turn_of_the_Screw_-_Henry_James.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Oscar Wilde\The_Canterville_Ghost_-_Oscar_Wilde.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Oscar Wilde\The_Canterville_Ghost_the_Happy_Prince_an_-_Oscar_Wilde.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Raven (from different sources)\The Raven by Edgar Allan Poe Illustrated by Gustave Dor‚ - openrightslibrary.com.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Raven (from different sources)\The_Raven.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\Hangsaman_-_Shirley_Jackson.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\The_Birds_Nest_-_Shirley_Jackson.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\The_Sundial_-_Shirley_Jackson.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\Dark_Tales_-_Shirley_Jackson.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\Come_Along_with_Me_-_Shirley_Jackson.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\The_Haunting_of_the_Hill_House-Shirley_Jackson.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\The_Lottery_and_Other_Stories_-_Shirley_Jackson.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\We_Have_Always_Lived_in_the_Castle_-_Shirley_Jackson.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\The Distributed Proofreaders Canada eBook of The Haunting of Hill House by Shirley Jackson.html
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\The_Missing_Girl_Penguin_Modern_-_Shirley_Jackson.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\Shirley_Jackson_-_The_Haunting_Of_Hill_Hou_-_Shirley_Jackson.epub
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\Shirley_Jackson_-_The_Summer_People_-_Shirley_Jackson.pdf
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\style.css
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\The Distributed Proofreaders Canada eBook of The Haunting of Hill House by Shirley Jackson_files
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\The Distributed Proofreaders Canada eBook of The Haunting of Hill House by Shirley Jackson_files\analytics.js.download
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\The Distributed Proofreaders Canada eBook of The Haunting of Hill House by Shirley Jackson_files\cover.jpg
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\The Distributed Proofreaders Canada eBook of The Haunting of Hill House by Shirley Jackson_files\title.jpg
+C:\Users\Dell\Documents\Library\poets_and_writers\Shirley Jackson\The Distributed Proofreaders Canada eBook of The Haunting of Hill House by Shirley Jackson_files\CTZ9hkMV_1yEDqF02AiLntBidbM.js.download
+C:\Users\Dell\Documents\Library\Pride Indian\????? Godan ( PDFDrive ).pdf
+C:\Users\Dell\Documents\Library\Pride Indian\The Complete Short Stories Volume 1.pdf
+C:\Users\Dell\Documents\Library\Pride Indian\Premchand Ki Lokpriya Kahaniyan ( PDFDrive ).pdf
+C:\Users\Dell\Documents\Library\Pride Indian\The Complete Short Stories Volume 4.pdf
+C:\Users\Dell\Documents\Library\Pride Indian\The Complete Short Stories Vloume 2.pdf
+C:\Users\Dell\Documents\Library\Pride Indian\Selected Stories of Rabindranath Tagore ( PDFDrive ).pdf
+C:\Users\Dell\Documents\Library\Pride Indian\Madhushala ( PDFDrive ).pdf
+C:\Users\Dell\Documents\Library\Pride Indian\Koi Deewana Kehta Hai Book.pdf
+C:\Users\Dell\Documents\Library\Pride Indian\????? Godan ( PDFDrive ).epub
+C:\Users\Dell\Documents\Library\Scientific minds\Quantum-Aspects-Of-Life.pdf
+C:\Users\Dell\Documents\Library\Scientific minds\Einstein
+C:\Users\Dell\Documents\Library\Scientific minds\Erwin Schr”dinger
+C:\Users\Dell\Documents\Library\Scientific minds\Richard Dawkins
+C:\Users\Dell\Documents\Library\Scientific minds\Einstein\ALSO BY WALTER ISAACSON - English4success ( PDFDrive ).pdf
+C:\Users\Dell\Documents\Library\Scientific minds\Einstein\Einstein_-_Walter_Isaacson.pdf
+C:\Users\Dell\Documents\Library\Scientific minds\Einstein\Moonwalking_With_Einstein__The_Art_and_Sci_-_Joshua_Foer.pdf
+C:\Users\Dell\Documents\Library\Scientific minds\Einstein\The World as I See It ( PDFDrive ).pdf
+C:\Users\Dell\Documents\Library\Scientific minds\Einstein\Relativity_ The Special and the General Theory, The - LIPN ( PDFDrive ).pdf
+C:\Users\Dell\Documents\Library\Scientific minds\Erwin Schr”dinger\What_is_life.pdf
+C:\Users\Dell\Documents\Library\Scientific minds\Richard Dawkins\The_Ancestors_Tale_-_Richard_Dawkins.epub
+C:\Users\Dell\Documents\Library\Scientific minds\Richard Dawkins\Richard Dawkins - The God Delusion (2007).pdf
+C:\Users\Dell\Documents\Library\Scientific minds\Richard Dawkins\Oxford_Book_of_Modern_Science_Writing_-_Richard_Dawkins.pdf
+C:\Users\Dell\Documents\Library\Scientific minds\Richard Dawkins\The_Selfish_Gene__40th_Anniversary_edition_-_Richard_Dawkins.pdf
+C:\Users\Dell\Documents\Library\Scientific minds\Richard Dawkins\Unweaving_the_Rainbow___Science_Delusion_-_Richard_Dawkins.epub
+C:\Users\Dell\Documents\Library\Scientific minds\Richard Dawkins\The_Selfish_Gene__40th_Anniversary_edition_-_Richard_Dawkins.epub
+C:\Users\Dell\Documents\Library\SomethingNew@20224\The Great Gatsby.pdf
+C:\Users\Dell\Documents\Library\Stephen Hawking\Universe_In_A_Nutshell_-_Stephen_Hawking.pdf
+C:\Users\Dell\Documents\Library\Stephen Hawking\A_Stubbornly_Persistent_Illusion_-_Stephen_Hawking.pdf
+C:\Users\Dell\Documents\Library\Stephen Hawking\The_Grand_Design_-_Stephen_Hawking.pdf
+C:\Users\Dell\Documents\Library\Stephen Hawking\The_Nature_of_Space_and_Time_-_Stephen_Hawking.pdf
+C:\Users\Dell\Documents\Library\Stephen Hawking\My_Brief_History_-_Stephen_Hawking.pdf
+C:\Users\Dell\Documents\Library\Stephen Hawking\Brief_Answers_to_the_Big_Questions_-_Stephen_Hawking.pdf
+C:\Users\Dell\Documents\Library\Stephen Hawking\Illustrated_Theory_of_Everything__The_Orig_-_Stephen_Hawking.pdf
+C:\Users\Dell\Documents\Library\Stephen King\The_Science_of_Stephen_King_-_Meg_Hafdahl.pdf
+C:\Users\Dell\Documents\Library\Stephen King\_OceanofPDF.com_Fairy_Tale_English_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\IT_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\If_It_Bleeds_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Four_Past_Midnight_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Nightmares_n_Dreamscapes_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\If_It_Bleeds_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\Sleeping_Beauties_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\The_Institute_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\The_Bazaar_of_Bad_Dreams_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Pet_Sematary_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Christine_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Doctor_Sleep__A_Novel_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Different_Seasons_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Salems_Lot_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Rose_Madder_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Outsider_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Misery_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Firestarter_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Everythings_Eventual_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Revival_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\_OceanofPDF.com_Holly_English_Edition_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\The_Stand_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\Just_After_Sunset__Stories_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Doctor_Sleep__A_Novel_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\Liseys_Story_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\The_Shining_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\The_Institute_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\Skeleton_Crew_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Night_Shift_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Nightmares_n_Dreamscapes_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\The_Body_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Pet_Sematary_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\Misery_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\The_Bachman_Books_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Four_Past_Midnight_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\IT_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\Desperation_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\Geralds_Game_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\The_Plant_parts_4-6.pdf
+C:\Users\Dell\Documents\Library\Stephen King\The_Bazaar_of_Bad_Dreams_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\The_Body_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\Christine_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\Different_Seasons_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\Carrie_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\The_Shining_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\Full_Dark_No_Stars_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\Salems_Lot_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\Everythings_Eventual_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\A_Death_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Just_After_Sunset__Stories_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\The_Plant_parts_1-3.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Outsider_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\Night_Shift_-_Stephen_King.epub
+C:\Users\Dell\Documents\Library\Stephen King\The_Man_in_the_Black_Suit___4_Dark_Tales_-_Stephen_King.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Extra_files
+C:\Users\Dell\Documents\Library\Stephen King\Extra_files\Doctor_sleep_cover.jpg
+C:\Users\Dell\Documents\Library\Stephen King\Extra_files\Quotes
+C:\Users\Dell\Documents\Library\Stephen King\Extra_files\Quotes\Quotes.pdf
+C:\Users\Dell\Documents\Library\Stephen King\Extra_files\Quotes\Quotes.rtf
+C:\Users\Dell\Documents\Library\Stephen King\Extra_files\Quotes\Stephen King Quotes (Author of The Shining).pdf
+C:\Users\Dell\Documents\Library\Stephen King\Extra_files\Quotes\Stephen King Quotes (Author of The Shining) (page 2 of 100).pdf
+C:\Users\Dell\Documents\Library\Stephen King\Extra_files\Quotes\quotes.txt
+C:\Users\Dell\Documents\Library\unknown but good\The_Complete_Supernatural_Stories__20__tal_-_Henry_James.pdf
+C:\Users\Dell\Documents\Library\unknown but good\The C Programming Language by Kernighan & Ritchie PDF.pdf
+C:\Users\Dell\Documents\Library\unknown but good\To_Kill_a_Mockingbird_-_Harper_Lee.pdf
+C:\Users\Dell\Documents\Library\unknown but good\frankenstein.pdf
+C:\Users\Dell\Documents\Library\unknown but good\Penpal_-_Dathan_Auerbach.pdf
+C:\Users\Dell\Documents\Library\unknown but good\The_Alchemist_-_Paulo_Coelho.pdf
+C:\Users\Dell\Documents\Library\unknown but good\The_Amityville_Horror_-_Jay_Anson.pdf
+C:\Users\Dell\Documents\Library\unknown but good\The_Alchemist_-_Paulo_Coelho.epub

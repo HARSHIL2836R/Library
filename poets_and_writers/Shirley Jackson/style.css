@@ -1,0 +1,146 @@
+@media print {
+    .pbk {
+        clear: both;
+        page-break-after: always;
+    }
+    .figcenter{
+    width: auto;
+    height: auto;
+    }
+}
+body { margin-left:8%;margin-right:10%; }
+.it { font-style:italic; }
+.bold { font-weight:bold; }
+.gesp { letter-spacing:0.2em; }
+p {
+    text-align: justify;
+    margin-left: 0.3in;
+    margin-right: 0.3in;
+    text-indent: 1em;
+    font-family: EB Garamond;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+    font-size: 19px;
+}
+div.lgc p { text-align:center; text-indent:0; margin-top:0; margin-bottom:0; }
+div.lgl p { text-indent: -17px; margin-left:17px; margin-top:0; margin-bottom:0; }
+
+div.lgp p {
+text-align:left; text-indent:0; margin-top:0; margin-bottom:0;
+}
+
+.poetry-container {
+display:block; text-align:left; margin-left:2em;
+}
+
+.stanza-inner {
+display:inline-block;
+}
+
+.stanza-outer {
+page-break-inside: avoid;
+}
+
+.stanza-inner .line0 {
+display:inline-block;
+}
+.stanza-outer .line0 {
+display:block;
+}
+
+    a {
+    align-content: center;
+    text-align:center;
+    font-weight:normal;
+    page-break-before: always;
+    margin:2em auto 1em auto;
+    font-family:deRez;
+    margin-top:5%;
+    clear:both;
+    color:red;
+    font-size: 40px;
+    }
+
+    h3 {
+    text-align:center;
+    font-weight: 900;
+    font-size: 2em;
+    margin:1em auto 0.5em auto;
+    page-break-after:avoid;
+    margin-top:5%;
+    margin-bottom:2%;
+    clear:both;
+    font-family: Pristina;
+    color: red;
+    }
+
+hr.pbk { border:none; border-bottom:0px solid transparent; width:100%; margin-top:2em; margin-bottom:2em }
+.figcenter   {
+height: 80%;
+margin-top:0%;
+margin-bottom:0%;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+text-indent:0%;
+}
+
+div.blockquote60percent { margin:1em auto; width:60%; }
+div.blockquote80percent { margin:1em auto; width:80%; }
+div.blockquote60percent p { text-align:left; }
+div.blockquote80percent p { text-align:left; }
+p.line { text-indent:0; margin-top:0; margin-bottom:0; }
+div.lgp p.line0 { text-indent:-3em; margin:0 auto 0 3em; }
+.pindent { margin-top:0; margin-bottom:0; text-indent:1.5em; }
+.noindent { margin-top:0; margin-bottom:0; text-indent:0; }
+.hang { padding-left:1.5em; text-indent:-1.5em; }
+h1 {margin-top:5%;margin-bottom:2%;text-align:center;clear:both;font-size:5em;font-family:Hey August;color: red;}
+h2{
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    text-align: center;
+    color: red;
+    /* font-family: 'Blackadder ITC Regular'; */
+    font-family: 'Bloody';
+    font-weight: 900;
+    font-size: 3em;
+    text-shadow:
+    4px 4px 1px #30000055,
+    4px 6px 1px #400000,
+    4px 8px 1px #500000,
+    4px 10px 1px #600000,
+    4px 12px 1px #700000c4,
+    4px 14px 1px #800000c4,
+    4px 16px 1px #900000bd,
+    4px 18px 1px #a00000c9,
+    4px 20px 1px #b00000ad,
+    4px 22px 8px #c00000b4,
+    4px 24px 8px #d00000a1,
+    4px 26px 8px #e00000b4,
+    4px 28px 8px #f0000042,
+    4px 30px 8px #fa0000d0,
+    4px 32px 8px #fb000093,
+    4px 34px 8px #fc00002a,
+    4px 36px 8px #fd000042,
+    4px 38px 8px #fe000062,
+    4px 40px 10px #ff000088;
+    filter: blur(1px);
+    page-break-before: always;
+}
+a{
+font-family:Bloody;
+font-size: 2em;
+}
+a:link {color:blue; text-decoration:none}
+a:visited {color:blue; text-decoration:none}
+a:hover {color:red}
+table {margin-top:5%;margin-bottom:5%;margin-left:auto;margin-right:auto;border:none;text-align:left;}
+a { font-size:1.2em; text-align:center; letter-spacing:.1em; font-weight:bold; }
+h3 { font-size:1em; text-align:center; padding-top:2em; font-weight:bold; }
+.poetry-container { font-size:.9em;
+            margin-top:.5em; margin-bottom:.5em;
+            margin-left: 10em; margin-right: 1em; }
+div.blockquote { margin-top:.5em; margin-bottom:.5em; }
+.literal-container { margin-top:.5em; margin-bottom:.5em }
+div.lgc { margin-top:.5em; margin-bottom:.5em }
+p { margin-top: 0em; margin-bottom: 0em; }
